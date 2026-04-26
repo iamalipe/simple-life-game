@@ -280,7 +280,7 @@ const ProgressBar: React.FC<{
 );
 
 // --- MAIN APPLICATION COMPONENT ---
-export default function App() {
+export default function Test() {
   const [activeTab, setActiveTab] = useState("activities");
   const [isDarkMode, setIsDarkMode] = useState(true);
 
